@@ -1,0 +1,10 @@
+sigma: 0.0001
+D: 256
+Seed: 0, Accuracies: [0.9805, 0.0000, 0.0000, 0.0000]
+Seed: 0, Accuracies: [0.9619, 0.9191, 0.0000, 0.0000]
+Seed: 0, Accuracies: [0.9357, 0.8633, 0.8787, 0.0000]
+Seed: 0, Accuracies: [0.9146, 0.8197, 0.8551, 0.7666]
+Final Average Accuracy: 83.90%
+Forgetting per task: [np.float64(0.06598984771573613), np.float64(0.09947643979057597), np.float64(0.02369337979094077)]
+Average Forgetting: 0.0631
+ 
