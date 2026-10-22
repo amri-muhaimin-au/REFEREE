@@ -1,0 +1,61 @@
+sigma: 0.0001
+D: 256
+Seed: 0, Accuracies: [0.9286, 0.0000, 0.0000, 0.0000, 0.0000]
+Seed: 0, Accuracies: [0.9286, 1.0000, 0.0000, 0.0000, 0.0000]
+Seed: 0, Accuracies: [0.9286, 1.0000, 1.0000, 0.0000, 0.0000]
+Seed: 0, Accuracies: [0.9286, 1.0000, 1.0000, 1.0000, 0.0000]
+Seed: 0, Accuracies: [0.9286, 1.0000, 1.0000, 0.9091, 0.9333]
+Final Average Accuracy: 95.42%
+Forgetting per task: [np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.09090909090909094)]
+Average Forgetting: 0.0227
+ sigma: 0.0001
+D: 256
+Seed: 0, Accuracies: [0.9412, 0.0000, 0.0000, 0.0000, 0.0000]
+Seed: 0, Accuracies: [0.9412, 0.9412, 0.0000, 0.0000, 0.0000]
+Seed: 0, Accuracies: [1.0000, 0.9412, 1.0000, 0.0000, 0.0000]
+Seed: 0, Accuracies: [1.0000, 0.9412, 1.0000, 0.9412, 0.0000]
+Seed: 0, Accuracies: [0.9412, 0.9412, 1.0000, 0.8235, 0.9524]
+Final Average Accuracy: 93.17%
+Forgetting per task: [np.float64(0.05882352941176472), np.float64(0.0), np.float64(0.0), np.float64(0.11764705882352944)]
+Average Forgetting: 0.0441
+ sigma: 0.0001
+D: 256
+Seed: 0, Accuracies: [0.9000, 0.0000, 0.0000, 0.0000, 0.0000]
+Seed: 0, Accuracies: [0.9400, 0.9322, 0.0000, 0.0000, 0.0000]
+Seed: 0, Accuracies: [0.9400, 0.9153, 0.9667, 0.0000, 0.0000]
+Seed: 0, Accuracies: [0.9400, 0.8983, 0.9667, 0.8167, 0.0000]
+Seed: 0, Accuracies: [0.9400, 0.8814, 0.9667, 0.7167, 0.7656]
+Final Average Accuracy: 85.41%
+Forgetting per task: [np.float64(0.0), np.float64(0.05084745762711862), np.float64(0.0), np.float64(0.09999999999999998)]
+Average Forgetting: 0.0377
+ sigma: 0.0001
+D: 256
+Seed: 0, Accuracies: [1.0000, 0.0000, 0.0000, 0.0000, 0.0000]
+Seed: 0, Accuracies: [1.0000, 1.0000, 0.0000, 0.0000, 0.0000]
+Seed: 0, Accuracies: [1.0000, 1.0000, 0.9474, 0.0000, 0.0000]
+Seed: 0, Accuracies: [1.0000, 1.0000, 1.0000, 1.0000, 0.0000]
+Seed: 0, Accuracies: [1.0000, 1.0000, 1.0000, 0.8824, 1.0000]
+Final Average Accuracy: 97.65%
+Forgetting per task: [np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.11764705882352944)]
+Average Forgetting: 0.0294
+ sigma: 0.0001
+D: 256
+Seed: 0, Accuracies: [0.9000, 0.0000, 0.0000, 0.0000, 0.0000]
+Seed: 0, Accuracies: [0.9200, 0.8644, 0.0000, 0.0000, 0.0000]
+Seed: 0, Accuracies: [0.9200, 0.9322, 0.8833, 0.0000, 0.0000]
+Seed: 0, Accuracies: [0.9200, 0.8983, 0.8500, 0.8333, 0.0000]
+Seed: 0, Accuracies: [0.9200, 0.8475, 0.8333, 0.7333, 0.6719]
+Final Average Accuracy: 80.12%
+Forgetting per task: [np.float64(0.0), np.float64(0.0847457627118644), np.float64(0.04999999999999993), np.float64(0.10000000000000009)]
+Average Forgetting: 0.0587
+ sigma: 0.0001
+D: 256
+Seed: 0, Accuracies: [1.0000, 0.0000, 0.0000, 0.0000, 0.0000]
+Seed: 0, Accuracies: [1.0000, 1.0000, 0.0000, 0.0000, 0.0000]
+Seed: 0, Accuracies: [1.0000, 1.0000, 1.0000, 0.0000, 0.0000]
+Seed: 0, Accuracies: [1.0000, 1.0000, 1.0000, 1.0000, 0.0000]
+Seed: 0, Accuracies: [1.0000, 1.0000, 1.0000, 1.0000, 1.0000]
+Final Average Accuracy: 100.00%
+Forgetting per task: [np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0)]
+Average Forgetting: 0.0000
+ 
