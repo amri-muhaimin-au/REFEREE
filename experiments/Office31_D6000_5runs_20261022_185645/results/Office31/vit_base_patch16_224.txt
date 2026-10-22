@@ -1,0 +1,301 @@
+sigma: 0.0001
+D: 6000
+Seed: 0, Accuracies: [0.9286, 0.0000, 0.0000, 0.0000, 0.0000]
+Seed: 0, Accuracies: [0.9286, 1.0000, 0.0000, 0.0000, 0.0000]
+Seed: 0, Accuracies: [0.9286, 1.0000, 0.8667, 0.0000, 0.0000]
+Seed: 0, Accuracies: [0.9286, 1.0000, 0.8667, 1.0000, 0.0000]
+Seed: 0, Accuracies: [0.9286, 1.0000, 0.9333, 1.0000, 0.9333]
+Final Average Accuracy: 95.90%
+Forgetting per task: [np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0)]
+Average Forgetting: 0.0000
+ sigma: 0.0001
+D: 6000
+Seed: 0, Accuracies: [1.0000, 0.0000, 0.0000, 0.0000, 0.0000]
+Seed: 0, Accuracies: [1.0000, 0.9412, 0.0000, 0.0000, 0.0000]
+Seed: 0, Accuracies: [1.0000, 0.9412, 1.0000, 0.0000, 0.0000]
+Seed: 0, Accuracies: [1.0000, 0.9412, 1.0000, 0.9412, 0.0000]
+Seed: 0, Accuracies: [1.0000, 0.9412, 1.0000, 0.8824, 0.9524]
+Final Average Accuracy: 95.52%
+Forgetting per task: [np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.05882352941176472)]
+Average Forgetting: 0.0147
+ sigma: 0.0001
+D: 6000
+Seed: 0, Accuracies: [0.9400, 0.0000, 0.0000, 0.0000, 0.0000]
+Seed: 0, Accuracies: [0.9400, 0.8814, 0.0000, 0.0000, 0.0000]
+Seed: 0, Accuracies: [0.9400, 0.8814, 0.9667, 0.0000, 0.0000]
+Seed: 0, Accuracies: [0.9400, 0.8814, 0.9667, 0.8333, 0.0000]
+Seed: 0, Accuracies: [0.9400, 0.8644, 0.9667, 0.7333, 0.7500]
+Final Average Accuracy: 85.09%
+Forgetting per task: [np.float64(0.0), np.float64(0.016949152542372836), np.float64(0.0), np.float64(0.10000000000000009)]
+Average Forgetting: 0.0292
+ sigma: 0.0001
+D: 6000
+Seed: 0, Accuracies: [0.9412, 0.0000, 0.0000, 0.0000, 0.0000]
+Seed: 0, Accuracies: [0.9412, 1.0000, 0.0000, 0.0000, 0.0000]
+Seed: 0, Accuracies: [0.9412, 1.0000, 0.9474, 0.0000, 0.0000]
+Seed: 0, Accuracies: [1.0000, 1.0000, 1.0000, 1.0000, 0.0000]
+Seed: 0, Accuracies: [1.0000, 1.0000, 1.0000, 0.8824, 1.0000]
+Final Average Accuracy: 97.65%
+Forgetting per task: [np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.11764705882352944)]
+Average Forgetting: 0.0294
+ sigma: 0.0001
+D: 6000
+Seed: 0, Accuracies: [0.9000, 0.0000, 0.0000, 0.0000, 0.0000]
+Seed: 0, Accuracies: [0.9200, 0.7627, 0.0000, 0.0000, 0.0000]
+Seed: 0, Accuracies: [0.9200, 0.8814, 0.8833, 0.0000, 0.0000]
+Seed: 0, Accuracies: [0.9200, 0.8475, 0.8833, 0.8000, 0.0000]
+Seed: 0, Accuracies: [0.9200, 0.8475, 0.8500, 0.7000, 0.6250]
+Final Average Accuracy: 78.85%
+Forgetting per task: [np.float64(0.0), np.float64(0.03389830508474578), np.float64(0.033333333333333326), np.float64(0.10000000000000009)]
+Average Forgetting: 0.0418
+ sigma: 0.0001
+D: 6000
+Seed: 0, Accuracies: [1.0000, 0.0000, 0.0000, 0.0000, 0.0000]
+Seed: 0, Accuracies: [1.0000, 1.0000, 0.0000, 0.0000, 0.0000]
+Seed: 0, Accuracies: [1.0000, 1.0000, 0.9333, 0.0000, 0.0000]
+Seed: 0, Accuracies: [1.0000, 1.0000, 1.0000, 1.0000, 0.0000]
+Seed: 0, Accuracies: [1.0000, 1.0000, 1.0000, 1.0000, 1.0000]
+Final Average Accuracy: 100.00%
+Forgetting per task: [np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0)]
+Average Forgetting: 0.0000
+ sigma: 0.0001
+D: 6000
+Seed: 1, Accuracies: [1.0000, 0.0000, 0.0000, 0.0000, 0.0000]
+Seed: 1, Accuracies: [1.0000, 1.0000, 0.0000, 0.0000, 0.0000]
+Seed: 1, Accuracies: [1.0000, 1.0000, 0.9333, 0.0000, 0.0000]
+Seed: 1, Accuracies: [1.0000, 1.0000, 0.9333, 1.0000, 0.0000]
+Seed: 1, Accuracies: [1.0000, 1.0000, 0.9333, 1.0000, 0.9333]
+Final Average Accuracy: 97.33%
+Forgetting per task: [np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0)]
+Average Forgetting: 0.0000
+ sigma: 0.0001
+D: 6000
+Seed: 1, Accuracies: [0.9412, 0.0000, 0.0000, 0.0000, 0.0000]
+Seed: 1, Accuracies: [0.8235, 1.0000, 0.0000, 0.0000, 0.0000]
+Seed: 1, Accuracies: [0.9412, 1.0000, 1.0000, 0.0000, 0.0000]
+Seed: 1, Accuracies: [0.9412, 1.0000, 1.0000, 1.0000, 0.0000]
+Seed: 1, Accuracies: [1.0000, 1.0000, 1.0000, 0.9412, 1.0000]
+Final Average Accuracy: 98.82%
+Forgetting per task: [np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.05882352941176472)]
+Average Forgetting: 0.0147
+ sigma: 0.0001
+D: 6000
+Seed: 1, Accuracies: [0.9600, 0.0000, 0.0000, 0.0000, 0.0000]
+Seed: 1, Accuracies: [0.9400, 0.8644, 0.0000, 0.0000, 0.0000]
+Seed: 1, Accuracies: [0.9400, 0.8814, 0.9167, 0.0000, 0.0000]
+Seed: 1, Accuracies: [0.9400, 0.8644, 0.9167, 0.8167, 0.0000]
+Seed: 1, Accuracies: [0.9400, 0.8475, 0.9000, 0.7667, 0.6875]
+Final Average Accuracy: 82.83%
+Forgetting per task: [np.float64(0.020000000000000018), np.float64(0.03389830508474578), np.float64(0.016666666666666607), np.float64(0.04999999999999993)]
+Average Forgetting: 0.0301
+ sigma: 0.0001
+D: 6000
+Seed: 1, Accuracies: [1.0000, 0.0000, 0.0000, 0.0000, 0.0000]
+Seed: 1, Accuracies: [1.0000, 0.9412, 0.0000, 0.0000, 0.0000]
+Seed: 1, Accuracies: [1.0000, 0.9412, 0.8947, 0.0000, 0.0000]
+Seed: 1, Accuracies: [1.0000, 0.9412, 0.9474, 1.0000, 0.0000]
+Seed: 1, Accuracies: [1.0000, 0.9412, 1.0000, 1.0000, 0.9524]
+Final Average Accuracy: 97.87%
+Forgetting per task: [np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0)]
+Average Forgetting: 0.0000
+ sigma: 0.0001
+D: 6000
+Seed: 1, Accuracies: [0.9600, 0.0000, 0.0000, 0.0000, 0.0000]
+Seed: 1, Accuracies: [0.9400, 0.8475, 0.0000, 0.0000, 0.0000]
+Seed: 1, Accuracies: [0.9400, 0.8644, 0.9833, 0.0000, 0.0000]
+Seed: 1, Accuracies: [0.9400, 0.9153, 0.9500, 0.7833, 0.0000]
+Seed: 1, Accuracies: [0.9400, 0.8814, 0.9500, 0.6833, 0.7500]
+Final Average Accuracy: 84.09%
+Forgetting per task: [np.float64(0.020000000000000018), np.float64(0.03389830508474578), np.float64(0.033333333333333326), np.float64(0.09999999999999998)]
+Average Forgetting: 0.0468
+ sigma: 0.0001
+D: 6000
+Seed: 1, Accuracies: [1.0000, 0.0000, 0.0000, 0.0000, 0.0000]
+Seed: 1, Accuracies: [1.0000, 1.0000, 0.0000, 0.0000, 0.0000]
+Seed: 1, Accuracies: [1.0000, 1.0000, 1.0000, 0.0000, 0.0000]
+Seed: 1, Accuracies: [1.0000, 1.0000, 1.0000, 1.0000, 0.0000]
+Seed: 1, Accuracies: [1.0000, 1.0000, 1.0000, 1.0000, 0.9333]
+Final Average Accuracy: 98.67%
+Forgetting per task: [np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0)]
+Average Forgetting: 0.0000
+ sigma: 0.0001
+D: 6000
+Seed: 2, Accuracies: [1.0000, 0.0000, 0.0000, 0.0000, 0.0000]
+Seed: 2, Accuracies: [1.0000, 1.0000, 0.0000, 0.0000, 0.0000]
+Seed: 2, Accuracies: [1.0000, 1.0000, 0.8667, 0.0000, 0.0000]
+Seed: 2, Accuracies: [1.0000, 1.0000, 0.8667, 1.0000, 0.0000]
+Seed: 2, Accuracies: [1.0000, 1.0000, 0.8667, 1.0000, 0.9333]
+Final Average Accuracy: 96.00%
+Forgetting per task: [np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0)]
+Average Forgetting: 0.0000
+ sigma: 0.0001
+D: 6000
+Seed: 2, Accuracies: [1.0000, 0.0000, 0.0000, 0.0000, 0.0000]
+Seed: 2, Accuracies: [0.9412, 1.0000, 0.0000, 0.0000, 0.0000]
+Seed: 2, Accuracies: [0.9412, 1.0000, 1.0000, 0.0000, 0.0000]
+Seed: 2, Accuracies: [0.9412, 1.0000, 1.0000, 1.0000, 0.0000]
+Seed: 2, Accuracies: [1.0000, 1.0000, 1.0000, 0.9412, 0.9048]
+Final Average Accuracy: 96.92%
+Forgetting per task: [np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.05882352941176472)]
+Average Forgetting: 0.0147
+ sigma: 0.0001
+D: 6000
+Seed: 2, Accuracies: [0.9600, 0.0000, 0.0000, 0.0000, 0.0000]
+Seed: 2, Accuracies: [0.9600, 0.8814, 0.0000, 0.0000, 0.0000]
+Seed: 2, Accuracies: [0.9600, 0.9153, 0.9500, 0.0000, 0.0000]
+Seed: 2, Accuracies: [0.9400, 0.8983, 0.9667, 0.8000, 0.0000]
+Seed: 2, Accuracies: [0.9600, 0.8814, 0.9667, 0.8000, 0.6875]
+Final Average Accuracy: 85.91%
+Forgetting per task: [np.float64(0.0), np.float64(0.03389830508474578), np.float64(0.0), np.float64(0.0)]
+Average Forgetting: 0.0085
+ sigma: 0.0001
+D: 6000
+Seed: 2, Accuracies: [1.0000, 0.0000, 0.0000, 0.0000, 0.0000]
+Seed: 2, Accuracies: [1.0000, 1.0000, 0.0000, 0.0000, 0.0000]
+Seed: 2, Accuracies: [1.0000, 1.0000, 1.0000, 0.0000, 0.0000]
+Seed: 2, Accuracies: [1.0000, 1.0000, 1.0000, 0.9412, 0.0000]
+Seed: 2, Accuracies: [1.0000, 1.0000, 1.0000, 1.0000, 1.0000]
+Final Average Accuracy: 100.00%
+Forgetting per task: [np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0)]
+Average Forgetting: 0.0000
+ sigma: 0.0001
+D: 6000
+Seed: 2, Accuracies: [0.8600, 0.0000, 0.0000, 0.0000, 0.0000]
+Seed: 2, Accuracies: [0.9000, 0.7966, 0.0000, 0.0000, 0.0000]
+Seed: 2, Accuracies: [0.9200, 0.8305, 0.9833, 0.0000, 0.0000]
+Seed: 2, Accuracies: [0.9000, 0.8644, 0.9667, 0.8333, 0.0000]
+Seed: 2, Accuracies: [0.9000, 0.8814, 0.9500, 0.8167, 0.7812]
+Final Average Accuracy: 86.59%
+Forgetting per task: [np.float64(0.020000000000000018), np.float64(0.0), np.float64(0.033333333333333326), np.float64(0.01666666666666672)]
+Average Forgetting: 0.0175
+ sigma: 0.0001
+D: 6000
+Seed: 2, Accuracies: [1.0000, 0.0000, 0.0000, 0.0000, 0.0000]
+Seed: 2, Accuracies: [1.0000, 1.0000, 0.0000, 0.0000, 0.0000]
+Seed: 2, Accuracies: [1.0000, 1.0000, 1.0000, 0.0000, 0.0000]
+Seed: 2, Accuracies: [1.0000, 0.9091, 1.0000, 1.0000, 0.0000]
+Seed: 2, Accuracies: [1.0000, 1.0000, 1.0000, 1.0000, 1.0000]
+Final Average Accuracy: 100.00%
+Forgetting per task: [np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0)]
+Average Forgetting: 0.0000
+ sigma: 0.0001
+D: 6000
+Seed: 3, Accuracies: [0.9286, 0.0000, 0.0000, 0.0000, 0.0000]
+Seed: 3, Accuracies: [0.9286, 1.0000, 0.0000, 0.0000, 0.0000]
+Seed: 3, Accuracies: [0.9286, 1.0000, 0.9333, 0.0000, 0.0000]
+Seed: 3, Accuracies: [0.9286, 1.0000, 0.9333, 1.0000, 0.0000]
+Seed: 3, Accuracies: [0.9286, 1.0000, 0.9333, 0.9091, 0.9333]
+Final Average Accuracy: 94.09%
+Forgetting per task: [np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.09090909090909094)]
+Average Forgetting: 0.0227
+ sigma: 0.0001
+D: 6000
+Seed: 3, Accuracies: [0.9412, 0.0000, 0.0000, 0.0000, 0.0000]
+Seed: 3, Accuracies: [0.9412, 1.0000, 0.0000, 0.0000, 0.0000]
+Seed: 3, Accuracies: [0.9412, 1.0000, 1.0000, 0.0000, 0.0000]
+Seed: 3, Accuracies: [0.9412, 1.0000, 1.0000, 1.0000, 0.0000]
+Seed: 3, Accuracies: [0.9412, 1.0000, 1.0000, 1.0000, 0.9048]
+Final Average Accuracy: 96.92%
+Forgetting per task: [np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0)]
+Average Forgetting: 0.0000
+ sigma: 0.0001
+D: 6000
+Seed: 3, Accuracies: [0.9000, 0.0000, 0.0000, 0.0000, 0.0000]
+Seed: 3, Accuracies: [0.9000, 0.8814, 0.0000, 0.0000, 0.0000]
+Seed: 3, Accuracies: [0.9000, 0.9153, 0.9667, 0.0000, 0.0000]
+Seed: 3, Accuracies: [0.9000, 0.8983, 0.9667, 0.8500, 0.0000]
+Seed: 3, Accuracies: [0.9000, 0.8644, 0.9333, 0.7333, 0.6094]
+Final Average Accuracy: 80.81%
+Forgetting per task: [np.float64(0.0), np.float64(0.05084745762711862), np.float64(0.033333333333333326), np.float64(0.1166666666666667)]
+Average Forgetting: 0.0502
+ sigma: 0.0001
+D: 6000
+Seed: 3, Accuracies: [1.0000, 0.0000, 0.0000, 0.0000, 0.0000]
+Seed: 3, Accuracies: [1.0000, 1.0000, 0.0000, 0.0000, 0.0000]
+Seed: 3, Accuracies: [1.0000, 1.0000, 1.0000, 0.0000, 0.0000]
+Seed: 3, Accuracies: [1.0000, 1.0000, 1.0000, 0.9412, 0.0000]
+Seed: 3, Accuracies: [1.0000, 1.0000, 1.0000, 1.0000, 0.9524]
+Final Average Accuracy: 99.05%
+Forgetting per task: [np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0)]
+Average Forgetting: 0.0000
+ sigma: 0.0001
+D: 6000
+Seed: 3, Accuracies: [0.9600, 0.0000, 0.0000, 0.0000, 0.0000]
+Seed: 3, Accuracies: [0.9600, 0.8305, 0.0000, 0.0000, 0.0000]
+Seed: 3, Accuracies: [0.9600, 0.8983, 0.9667, 0.0000, 0.0000]
+Seed: 3, Accuracies: [0.9600, 0.8983, 0.9500, 0.7833, 0.0000]
+Seed: 3, Accuracies: [0.9600, 0.8814, 0.9500, 0.7833, 0.6562]
+Final Average Accuracy: 84.62%
+Forgetting per task: [np.float64(0.0), np.float64(0.016949152542372947), np.float64(0.01666666666666672), np.float64(0.0)]
+Average Forgetting: 0.0084
+ sigma: 0.0001
+D: 6000
+Seed: 3, Accuracies: [1.0000, 0.0000, 0.0000, 0.0000, 0.0000]
+Seed: 3, Accuracies: [1.0000, 1.0000, 0.0000, 0.0000, 0.0000]
+Seed: 3, Accuracies: [1.0000, 1.0000, 1.0000, 0.0000, 0.0000]
+Seed: 3, Accuracies: [1.0000, 1.0000, 1.0000, 0.9091, 0.0000]
+Seed: 3, Accuracies: [1.0000, 1.0000, 1.0000, 0.9091, 1.0000]
+Final Average Accuracy: 98.18%
+Forgetting per task: [np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0)]
+Average Forgetting: 0.0000
+ sigma: 0.0001
+D: 6000
+Seed: 4, Accuracies: [1.0000, 0.0000, 0.0000, 0.0000, 0.0000]
+Seed: 4, Accuracies: [1.0000, 1.0000, 0.0000, 0.0000, 0.0000]
+Seed: 4, Accuracies: [1.0000, 1.0000, 0.8000, 0.0000, 0.0000]
+Seed: 4, Accuracies: [1.0000, 1.0000, 0.8667, 1.0000, 0.0000]
+Seed: 4, Accuracies: [1.0000, 1.0000, 0.9333, 1.0000, 1.0000]
+Final Average Accuracy: 98.67%
+Forgetting per task: [np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0)]
+Average Forgetting: 0.0000
+ sigma: 0.0001
+D: 6000
+Seed: 4, Accuracies: [1.0000, 0.0000, 0.0000, 0.0000, 0.0000]
+Seed: 4, Accuracies: [1.0000, 1.0000, 0.0000, 0.0000, 0.0000]
+Seed: 4, Accuracies: [1.0000, 0.9412, 0.9474, 0.0000, 0.0000]
+Seed: 4, Accuracies: [1.0000, 1.0000, 0.9474, 1.0000, 0.0000]
+Seed: 4, Accuracies: [1.0000, 1.0000, 0.9474, 1.0000, 0.9524]
+Final Average Accuracy: 97.99%
+Forgetting per task: [np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0)]
+Average Forgetting: 0.0000
+ sigma: 0.0001
+D: 6000
+Seed: 4, Accuracies: [0.9800, 0.0000, 0.0000, 0.0000, 0.0000]
+Seed: 4, Accuracies: [0.9800, 0.8814, 0.0000, 0.0000, 0.0000]
+Seed: 4, Accuracies: [0.9800, 0.8305, 0.9667, 0.0000, 0.0000]
+Seed: 4, Accuracies: [0.9800, 0.7966, 0.9500, 0.8500, 0.0000]
+Seed: 4, Accuracies: [0.9800, 0.8136, 0.9500, 0.7500, 0.7031]
+Final Average Accuracy: 83.93%
+Forgetting per task: [np.float64(0.0), np.float64(0.06779661016949146), np.float64(0.01666666666666672), np.float64(0.09999999999999998)]
+Average Forgetting: 0.0461
+ sigma: 0.0001
+D: 6000
+Seed: 4, Accuracies: [1.0000, 0.0000, 0.0000, 0.0000, 0.0000]
+Seed: 4, Accuracies: [1.0000, 0.9412, 0.0000, 0.0000, 0.0000]
+Seed: 4, Accuracies: [1.0000, 0.9412, 1.0000, 0.0000, 0.0000]
+Seed: 4, Accuracies: [1.0000, 1.0000, 1.0000, 0.9412, 0.0000]
+Seed: 4, Accuracies: [1.0000, 1.0000, 1.0000, 0.9412, 0.9524]
+Final Average Accuracy: 97.87%
+Forgetting per task: [np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0)]
+Average Forgetting: 0.0000
+ sigma: 0.0001
+D: 6000
+Seed: 4, Accuracies: [0.9200, 0.0000, 0.0000, 0.0000, 0.0000]
+Seed: 4, Accuracies: [0.9000, 0.8136, 0.0000, 0.0000, 0.0000]
+Seed: 4, Accuracies: [0.9000, 0.8814, 0.9333, 0.0000, 0.0000]
+Seed: 4, Accuracies: [0.9000, 0.8983, 0.9333, 0.8333, 0.0000]
+Seed: 4, Accuracies: [0.9000, 0.9153, 0.9167, 0.7667, 0.7031]
+Final Average Accuracy: 84.03%
+Forgetting per task: [np.float64(0.020000000000000018), np.float64(0.0), np.float64(0.01666666666666672), np.float64(0.06666666666666665)]
+Average Forgetting: 0.0258
+ sigma: 0.0001
+D: 6000
+Seed: 4, Accuracies: [1.0000, 0.0000, 0.0000, 0.0000, 0.0000]
+Seed: 4, Accuracies: [1.0000, 1.0000, 0.0000, 0.0000, 0.0000]
+Seed: 4, Accuracies: [1.0000, 1.0000, 1.0000, 0.0000, 0.0000]
+Seed: 4, Accuracies: [1.0000, 1.0000, 1.0000, 1.0000, 0.0000]
+Seed: 4, Accuracies: [1.0000, 1.0000, 1.0000, 1.0000, 1.0000]
+Final Average Accuracy: 100.00%
+Forgetting per task: [np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0)]
+Average Forgetting: 0.0000
+ 
