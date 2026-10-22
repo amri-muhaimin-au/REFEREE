@@ -351,8 +351,20 @@ class get_subset_officeHome(object):
             target_transform = transforms.Lambda(
                 lambda y, x=labels[0]: y - x
             ) if self.scenario=='domain' else None
-            train_datasets.append(self.subset(labels, target_transform=target_transform)[0])
-            test_datasets.append(self.subset(labels, target_transform=target_transform)[1])
+            train_set, test_set = self.subset(
+                labels,
+                target_transform = target_transform
+            )
+            assert set(train_set.index).isdisjoint(test_set.index), \
+                "Data leakage: indices in train and test sets overlap!"
+
+            train_datasets.append(train_set)
+            test_datasets.append(test_set)
+        
+            # old code, cause data leakage.
+            #train_datasets.append(self.subset(labels, target_transform=target_transform)[0])
+            #test_datasets.append(self.subset(labels, target_transform=target_transform)[1])
+        
         self.train_datasets = train_datasets
         self.test_datasets = test_datasets
     
@@ -423,8 +435,20 @@ class get_subset_visda(object):
             target_transform = transforms.Lambda(
                 lambda y, x=labels[0]: y - x
             ) if self.scenario == 'domain' else None
-            train_datasets.append(self.subset(labels, target_transform=target_transform)[0])
-            test_datasets.append(self.subset(labels, target_transform=target_transform)[1])
+            train_set, test_set = self.subset(
+                labels,
+                target_transform = target_transform
+            )
+            assert set(train_set.index).isdisjoint(test_set.index), \
+                "Data leakage: indices in train and test sets overlap!"
+
+            train_datasets.append(train_set)
+            test_datasets.append(test_set)          
+
+            # old code, cause data leakage.  
+            #train_datasets.append(self.subset(labels, target_transform=target_transform)[0])
+            #test_datasets.append(self.subset(labels, target_transform=target_transform)[1])
+        
         self.train_datasets = train_datasets
         self.test_datasets = test_datasets
 
@@ -488,8 +512,20 @@ class get_subset_domainnet(object):
             target_transform = transforms.Lambda(
                 lambda y, x=labels[0]: y - x
             ) if self.scenario == 'domain' else None
-            train_datasets.append(self.subset(labels, target_transform=target_transform)[0])
-            test_datasets.append(self.subset(labels, target_transform=target_transform)[1])
+            train_set, test_set = self.subset(
+                labels,
+                target_transform = target_transform
+            )
+            assert set(train_set.index).isdisjoint(test_set.index), \
+                "Data leakage: indices in train and test sets overlap!"
+
+            train_datasets.append(train_set)
+            test_datasets.append(test_set)
+
+            # old code, cause data leakage.
+            #train_datasets.append(self.subset(labels, target_transform=target_transform)[0])
+            #test_datasets.append(self.subset(labels, target_transform=target_transform)[1])
+        
         self.train_datasets = train_datasets
         self.test_datasets = test_datasets
 
